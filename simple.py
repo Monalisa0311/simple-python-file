@@ -1,1 +1,1 @@
-Print("Hell World")
+print("Hell World")
